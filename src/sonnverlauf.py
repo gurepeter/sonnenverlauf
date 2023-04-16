@@ -58,8 +58,8 @@ def sonnenstand_ueber_zeitbereich():
 if __name__ == '__main__':
     
     # GPS-Koordinaten Gureweg 1
-    latitude = 46.655997 # 42.206
-    longitude = 13.756257 # -71.382
+    latitude = 46.655997
+    longitude = 13.756257
     filter_is_off = False
     filter_altitude = 5 # bei einem Sonnenstand groesser von x Grad
     filter_uhrzeit = 14 # alle Werte ab xx Uhr (z.B. Nachmittag)
