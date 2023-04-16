@@ -27,7 +27,7 @@ Eine Datei sonnenstand.csv wird mit 4 Spalten erzeugt
 * 2.Spalte: **datum**    - Datum mit Uhrzeit
 * 3.Spalte: **altitude** - Sonnenstand in Grad zur Erde
 * 4.Spalte: **azimuth**  - Horizontalwinkel in Grad 0° ist Norden - 90° Osten - 180° Süden - 225° Westen
-* 5.Spalte: **schatten** - bei einem Objekt mit einem 1m Höhe
+* 5.Spalte: **schatten** - bei einem Objekt mit einer Hoehe von 1m
 
 
  
