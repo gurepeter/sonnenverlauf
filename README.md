@@ -31,5 +31,22 @@ Eine Datei sonnenstand.csv wird mit 4 Spalten erzeugt
 * 4.Spalte: **azimuth**  - Horizontalwinkel in Grad 0° ist Norden - 90° Osten - 180° Süden - 225° Westen
 * 5.Spalte: **schatten** - bei einem Objekt mit einer Hoehe von 1m
 
+## Bilder
+![Dezember 21](img/verlauf_Dezember_21_bild.png)
+![Jänner 28](img/verlauf_Jaenner_28_bild.png)
+![April 06](img/verlauf_April_06_bild.png)
+![Juni 21](img/verlauf_Juni_21_bild.png)
+
+## Schattenverlauf - Kreis
+![Dezember 21](img/verlauf_Dezember_21.png)
+![Jänner 28](img/verlauf_Jaenner_28.png)
+![April 06](img/verlauf_April_06.png)
+![Juni 21](img/verlauf_Juni_21.png)
+
+## Schattenverlauf - Diagramm
+![Dezember 21](img/verlauf_Dezember_21_chart.png)
+![Jänner 28](img/verlauf_Jaenner_28_chart.png)
+![April 06](img/verlauf_April_06_chart.png)
+![Juni 21](img/verlauf_Juni_21_chart.png)
 
  
