@@ -3,6 +3,8 @@
 ## Voraussetzung
 Python 3.x
 Voraussetzung ist die Bibliotheke pysolar.solar
+## Links
+[https://www.sunearthtools.com](https://www.sunearthtools.com/dp/tools/pos_sun.php)
 
 ## Einstellungen
 GPS-Koordinaten Gureweg 1
@@ -24,8 +26,8 @@ Eine Datei sonnenstand.csv wird mit 4 Spalten erzeugt
 * 1.Spalte: **index**    - laufende Nummer
 * 2.Spalte: **datum**    - Datum mit Uhrzeit
 * 3.Spalte: **altitude** - Sonnenstand in Grad zur Erde
-* 4.Spalte: **azimuth**  - Horizontalwinkel in Grad 0° ist Norden - 90° Osten - 180° Süden - 225° Westen
-* 5.Spalte: **schatten** - bei einem Objekt mit einem 1m Höhe
+* 4.Spalte: **azimuth**  - Horizontalwinkel in Grad 0Â° ist Norden - 90Â° Osten - 180Â° SÃ¼den - 225Â° Westen
+* 5.Spalte: **schatten** - bei einem Objekt mit einem 1m HÃ¶he
 
 
  
