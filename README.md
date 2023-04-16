@@ -32,21 +32,15 @@ Eine Datei sonnenstand.csv wird mit 4 Spalten erzeugt
 * 5.Spalte: **schatten** - bei einem Objekt mit einer Hoehe von 1m
 
 ## Bilder
-![Dezember 21](img/verlauf_Dezember_21_bild.png)
-![Jänner 28](img/verlauf_Jaenner_28_bild.png)
-![April 06](img/verlauf_April_06_bild.png)
-![Juni 21](img/verlauf_Juni_21_bild.png)
+<img src='img/verlauf_Dezember_21_bild.png' width='400'> <img src='img/verlauf_Jaenner_28_bild.png' width='400'>
+<img src='img/verlauf_April_06_bild.png' width='400'> <img src='img/verlauf_Juni_21_bild.png' width='400'>
 
 ## Schattenverlauf - Kreis
-![Dezember 21](img/verlauf_Dezember_21.png)
-![Jänner 28](img/verlauf_Jaenner_28.png)
-![April 06](img/verlauf_April_06.png)
-![Juni 21](img/verlauf_Juni_21.png)
+<img src='img/verlauf_Dezember_21.png' width='400'> <img src='img/verlauf_Jaenner_28.png' width='400'>
+<img src='img/verlauf_April_06.png' width='400'> <img src='img/verlauf_Juni_21.png' width='400'>
 
 ## Schattenverlauf - Diagramm
-![Dezember 21](img/verlauf_Dezember_21_chart.png)
-![Jänner 28](img/verlauf_Jaenner_28_chart.png)
-![April 06](img/verlauf_April_06_chart.png)
-![Juni 21](img/verlauf_Juni_21_chart.png)
+<img src='img/verlauf_Dezember_21_chart.png' width='400'> <img src='img/verlauf_Jaenner_28_chart.png' width='400'>
+<img src='img/verlauf_April_06_chart.png' width='400'> <img src='img/verlauf_Juni_21_chart.png' width='400'>
 
  
