@@ -5,7 +5,7 @@ Python 3.x
 Voraussetzung ist die Bibliotheke pysolar.solar
 ## Links
 * [https://www.sunearthtools.com](https://www.sunearthtools.com/dp/tools/pos_sun.php)
-* [Link zum Pythonscript sonnverlauf.py](src/sonnenstand.csv)
+* [Link zum Pythonscript sonnverlauf.py](src/sonnverlauf.py)
 * [Link zum Ergebnis sonnenstand.csv](src/sonnenstand.csv)
 
 ## Einstellungen
